@@ -10,4 +10,6 @@ While I'm not Frisian, I love everything maritime. Wind and water are my element
 - I enjoy solving puzzles and rubik's cubes 🧩
 - I kind of live in three countries 🌏
 
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nielslange)](https://github.com/anuraghazra/github-readme-stats)
+-->
