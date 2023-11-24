@@ -12,12 +12,12 @@ While I'm not Frisian, I love everything maritime. Wind and water are my element
 
 <table>
 <tr>
-<td width="51%" colspan="2">
+<td width="52%" colspan="2">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nielslange&theme=nord)](https://git.io/streak-stats)
 
 </td>
-<td width="49%" colspan="2">
+<td width="48%" colspan="2">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nielslange&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
