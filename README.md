@@ -19,7 +19,7 @@ While I'm not Frisian, I love everything maritime. Wind and water are my element
 </td>
 <td width="48%" colspan="2">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nielslange&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nielslange&theme=nord&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
