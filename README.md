@@ -12,25 +12,13 @@ While I'm not Frisian, I love everything maritime. Wind and water are my element
 
 <table>
 <tr>
-<td width="52%" colspan="2">
+<td width="47%">
   
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=zeeshan0080&theme=nord)](https://git.io/streak-stats)
 
 
 </td>
-<td width="48%" colspan="2">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nielslange&theme=nord&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-</tr>
-<tr>
-<td width="28%">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nielslange&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-<td width="72%" colspan="3">
+<td width="53%">
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nielslange&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
