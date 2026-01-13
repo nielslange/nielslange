@@ -1,7 +1,8 @@
 ### Moin 👋
 
-> Moin, moi or mojn is a Low German, Frisian, High German (moin [moin] or Moin, [Moin])[1], Danish (mojn)[2] and Kashubian (mòjn) greeting from East Frisia, Southern Schleswig (including North Frisia and Flensburg), Bremen, Holstein, Mecklenburg-Vorpommern, the eastern and northern Netherlands, Southern Jutland in Denmark and parts of Kashubia.
-Source: https://en.wikipedia.org/wiki/Moin
+> _Moin, moi or mojn is a Low German, Frisian, High German (moin [moin] or Moin, [Moin])[1], Danish (mojn)[2] and Kashubian (mòjn) greeting from East Frisia, Southern Schleswig (including North Frisia and Flensburg), Bremen, Holstein, Mecklenburg-Vorpommern, the eastern and northern Netherlands, Southern Jutland in Denmark and parts of Kashubia._
+>
+> Source: https://en.wikipedia.org/wiki/Moin
 
 While I'm not Frisian, I love everything maritime. Wind and water are my elements. 
 
@@ -9,19 +10,3 @@ While I'm not Frisian, I love everything maritime. Wind and water are my element
 - I prefer beer & whisky over smoothies 🥃
 - I enjoy solving puzzles and rubik's cubes 🧩
 - I kind of live in three countries 🌏
-
-<table>
-<tr>
-<td width="47%">
-  
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=zeeshan0080&theme=nord)](https://git.io/streak-stats)
-
-
-</td>
-<td width="53%">
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nielslange&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</td>
-</tr>
-</table>
